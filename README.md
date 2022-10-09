@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @julien-arino
 - 👀 I’m interested in mathematical biology and in particular, mathematical epidemiology
-- 🌱 I’m currently learning various stuff
 - 📫 To reach me, see the contact info on [my page](https://julien-arino.github.io)
 
 <!---
